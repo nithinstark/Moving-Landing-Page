@@ -1,0 +1,15 @@
+button{
+    outline:none;
+    border:none;
+    width:90%;
+    padding: 10px 5px;
+    background:#ec2400;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-inline: auto;
+
+}
+
+button:hover{
+    opacity:.6;
+}
